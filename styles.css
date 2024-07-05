@@ -43,7 +43,7 @@ nav a:hover {
 
 
 
-..navbar {
+.navbar {
    position: fixed;
     top: 0;
     margin-left: 222px;
@@ -110,7 +110,7 @@ nav a:hover {
     color: #02ccfe;
     text-align: center;
     margin-top: 60px;
-    width: 90%;
+    width: 98%;
 
 }
 
