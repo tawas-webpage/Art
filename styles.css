@@ -2,6 +2,11 @@ body {
     margin: 16;
 }
 
+.image-container {
+  display: flex;
+  justify-content: center; /* Center the images horizontally */
+  gap: 10px; /* Add space between the images */
+}
 
 
 .header-image {
