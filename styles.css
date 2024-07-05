@@ -43,12 +43,12 @@ nav a:hover {
 
 
 
-.navbar {
+..navbar {
    position: fixed;
     top: 0;
-    margin-left: 120px;
+    margin-left: 222px;
     margin-right: 40px;
-    width: 75%;
+    width: 83%;
     background-color: #000000;
     z-index: 000;
     display: flex;
